@@ -15,7 +15,6 @@ const UsuarioInvitado=()=>{
     const [contact,setContact] = useState(frmContact);
 
 
-holi
     let rect = false;
     let line = false;
     let circle = false;
